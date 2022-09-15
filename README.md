@@ -1,9 +1,9 @@
 - 👋 Greetings! And welcome to my repos.
 
-My name is Nicolas Vila, I'm a DevOps engineer based in Buenos Aires, Argentina.
+My name is Nicolas Vila, I'm a DevOps engineer based in New Westminster, BC.
 I've been using computers since I was 7 years old, and Linux since '95 (last millenium!)
-I started my career as a networker (Cisco, Juniper, you name it) and then kept learning more
-and more and today, I know quite some stuff =)
+I started my career as a networker (Cisco, Juniper, you name it), moved to the cloud,
+coding, k8s, orchestration, kept learning more and more and today, I know quite some stuff =)
 
 - If you wish to contact me, you can drop me a line at valathar@gmail.com
 
